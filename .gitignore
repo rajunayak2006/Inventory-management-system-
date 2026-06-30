@@ -1,0 +1,17 @@
+# Compiled class files
+bin/
+*.class
+
+# Local SQLite Database
+inventory.db
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+*.sublime-workspace
